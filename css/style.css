@@ -1,3 +1,22 @@
+body {
+    color: #333;  
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;    
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    color: #333;  
+}
+
+#tribute-info {
+    width: 50%;  
+    margin: 10px auto;
+    color: #333;  
+}
+
 #image{
 max-width: 100%;
 height : auto;
