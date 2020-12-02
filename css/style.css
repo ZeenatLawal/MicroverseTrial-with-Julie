@@ -1,16 +1,18 @@
 body {
+    background-color: rgb(189, 190, 190);
     color: #333;  
     font-size: 1.6rem;
-    line-height: 1.5;
-    text-align: center;    
+    line-height: 1.5;   
 }
-
 h1 {
     font-size: 4rem;
     margin-bottom: 0;
     color: #333;  
+    text-align: center;
 }
-
+p{
+    text-align: center;
+}
 #tribute-info {
     width: 50%;  
     margin: 10px auto;
@@ -23,6 +25,9 @@ height : auto;
 width: 100%;
 display: block;
 
+}
+h3{
+    text-align: center;
 }
 #img-div{
     text-align: center;
